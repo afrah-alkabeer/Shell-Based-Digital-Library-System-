@@ -11,3 +11,6 @@ The system supports:
 
 **Project Repository (Code):**  
 https://github.com/ToolsTeam224/Digital-Library-Project
+
+**All project files**
+https://drive.google.com/drive/folders/1WSo-ZPdWP4FHC_nUpoHYhsoL_znLk50r
