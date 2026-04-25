@@ -54,7 +54,6 @@ This project shows how basic scripting tools can be used to build a practical sy
 ## 🔗 Project Files
 
 Project Repository (Code):
-
 [https://github.com/ToolsTeam224/Digital-Library-Project]
 
 All files:  
