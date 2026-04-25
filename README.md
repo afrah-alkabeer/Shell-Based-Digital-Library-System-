@@ -1,4 +1,4 @@
- #💻 Shell-Based Digital Library System  
+ # 💻 Shell-Based Digital Library System  
 
 A project focused on building a simple digital library system using Bash scripting.
 
@@ -6,14 +6,14 @@ The system allows users to manage and access books through a command-line interf
 
 ---
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project was developed as part of a Software Development Tools course.  
 It demonstrates how Shell scripting can be used to build a complete and functional system using simple tools.
 
 ---
 
-##⚙️ Features
+## ⚙️ Features
 
 - User account creation and login  
 - Admin authentication system  
@@ -25,7 +25,7 @@ It demonstrates how Shell scripting can be used to build a complete and function
 
 ---
 
-##🗂️ System Structure
+## 🗂️ System Structure
 
 The system is based on simple file storage:
 
@@ -36,7 +36,7 @@ The system is based on simple file storage:
 
 ---
 
-##🧠 How It Works
+## 🧠 How It Works 
 
 - The system runs using Bash scripts  
 - Users interact through a menu-based interface  
@@ -45,13 +45,13 @@ The system is based on simple file storage:
 
 ---
 
-##🧩 Outcome
+## 🧩 Outcome
 
 This project shows how basic scripting tools can be used to build a practical system with user interaction, data handling, and admin control.
 
 ---
 
-##🔗 Project Files
+## 🔗 Project Files
 
 Google Drive (Code + Report):  
 [https://drive.google.com/drive/folders/1WSo-ZPdWP4FHC_nUpoHYhsoL_znLk50r]
